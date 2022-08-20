@@ -26,4 +26,4 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 	</center>
   ## What I want to do next :thinking:
 - Currently learning webdev
-![](https://komarev.com/ghpvc/?username=Git4pranay=blueviolet)
+![](https://komarev.com/ghpvc/?username=Sarthakbh321&color=blueviolet)

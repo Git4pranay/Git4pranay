@@ -27,5 +27,5 @@ I am a student, currently studying in Vellore Institute of Technology chennai
 		</table>
 	</center>
   ## What I want to do next :thinking:
-- Currently learning webdev
+- Sleeping!
 

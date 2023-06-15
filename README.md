@@ -27,8 +27,7 @@ I am a student, currently studying in Vellore Institute of Technology chennai
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/c.svg">
 					</td>
 					<td width="25%" align="center">
-						<span><strong>Html</strong></span><br/>
-						<img height="64px" width="64px" src="file:///C:/Users/prana/Downloads/html-5.svg">
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
 					</td>
 				</tr>
 			</tbody>

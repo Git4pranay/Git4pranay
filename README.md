@@ -26,7 +26,6 @@ I am a student, currently studying in Vellore Institute of Technology chennai
 						<span><strong>C</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/c.svg">
 					</td>
-		
 				</tr>
 			</tbody>
 		</table>

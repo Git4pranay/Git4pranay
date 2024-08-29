@@ -31,5 +31,5 @@ I am a student, currently studying in Vellore Institute of Technology chennai
 		</table>
 	</center>
   ## What I want to do next :thinking:
-- Iam a fast learner with a short term memory loss
+- Iam a fast learner
 
